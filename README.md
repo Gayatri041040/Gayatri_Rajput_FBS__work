@@ -6,4 +6,5 @@
 - GitHub
 - Data Science Basics
  Working on coding assignments and projects
+
  Thanks for visiting my profile!
